@@ -1,7 +1,7 @@
 
 
 <h1 >
-    Head of the Computer Engineering Scientific Association, Islamic Azad University of Lahijan | Chief Editor of Gilano (Student Scientific Journal) | ML Specialis
+    Head of the Computer Engineering Scientific Association, Islamic Azad University of Lahijan | Chief Editor of Guilano (Student Scientific Journal) | ML Specialis
 </h1>
 
 
