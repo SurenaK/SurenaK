@@ -12,7 +12,7 @@ print("hello world :)")
 ---
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i= py,pytorch,sklearn,tensorflow,opencv,vscode,ubuntu,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= py,pytorch,sklearn,tensorflow,opencv,vscode,ubuntu,sqlite,mysql)](https://skillicons.dev)]
 
 ### Social
 
