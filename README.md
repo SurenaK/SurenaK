@@ -92,7 +92,7 @@ class SurenaKarimi:
 | 2025 | ⭐ Outstanding Research Student Award — IAU Lahijan |
 | 2025 | 🎯 Founder & Organizer — Tea Code Programming Contest |
 | 2023 | 🏅 ICPC Competitor — Sharif University of Technology |
-| — | 🥉 3rd Place — Azad Code National Online Programming Contest |
+| 2024 | 🥉 3rd Place — Azad Code National Online Programming Contest |
 
 ---
 
