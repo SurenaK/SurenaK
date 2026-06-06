@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Typing SVG -->
 <a href="https://github.com/SurenaK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Product+Builder;AI+%26+Automation+Specialist;Tech+Brand+Strategist;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Product+Builder;AI+%26+Automation+Specialist;Tech+Brand+Strategist;ICPC+Competitor+%26+Coach+%F0%9F%8F%86;Building+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,17 +14,26 @@
 class SurenaKarimi:
     role        = "Software Engineer · Product Builder · AI & Automation Specialist"
     location    = "Iran 🇮🇷"
+    education   = "B.Sc. Computer Engineering — IAU Lahijan"
     community   = "Head of CS Scientific Association @ IAU Lahijan"
     publishing  = "Chief Editor @ Guilano (Student Scientific Journal)"
-    interests   = ["AI Systems", "Automation", "Product Development", 
+    interests   = ["AI Systems", "Automation", "Product Development",
                    "Tech Entrepreneurship", "Brand Strategy"]
-    
+
+    highlights  = [
+        "🏆 ICPC 2023 Competitor | Sharif University of Technology",
+        "🏆 ICPC 2025 Coach & Team Mentor | Sharif University of Technology",
+        "🥉 3rd Place — Azad Code National Online Programming Contest",
+        "🎯 Founder & Organizer — Tea Code Programming Contest",
+        "⭐ Outstanding Research Student Award — 2025",
+    ]
+
     def current_focus(self):
         return [
             "🧠 Building AI-powered automation systems",
             "🚀 Designing and validating tech product MVPs",
             "📡 Growing tech communities & brands",
-            "🏆 Competitive programming (ICPC prep)",
+            "🎓 Teaching ML & mentoring competitive programmers",
         ]
 ```
 
@@ -58,8 +66,8 @@ class SurenaKarimi:
 | 💡 **Software Engineering** | OOP, software architecture, API integration, database design, rapid prototyping |
 | 🚀 **Product & Innovation** | Product ideation, MVP design, startup validation, technology commercialization |
 | 📈 **Tech Branding & Growth** | Tech brand development, digital presence, content strategy, community building |
-| 🏆 **Competitive Programming** | Algorithm design, data structures, ICPC preparation, mathematical modeling |
-| 👥 **Leadership** | Team coordination, event organization, strategic planning, technical roadmapping |
+| 🏆 **Competitive Programming** | Algorithm design, data structures, ICPC coaching, mathematical modeling |
+| 👥 **Leadership** | Team coordination, event organization, contest management, technical roadmapping |
 | 🎓 **Research & Education** | Academic writing, workshop design, ML instruction, technology trend analysis |
 
 ---
@@ -70,8 +78,21 @@ class SurenaKarimi:
 📦 Intelligent Automation Systems  →  Bots, scrapers, workflow engines
 🧠 AI-Powered Applications         →  ML models, generative AI tools
 🏗️ Software Products               →  MVPs, full-stack tools, APIs
+🎯 Competitive Programming Events  →  Contests, coaching, community
 📊 Tech Brand Ecosystems           →  Community platforms, content strategies
 ```
+
+---
+
+## 🏆 Highlights & Achievements
+
+| Year | Achievement |
+|---|---|
+| 2025 | 🏅 ICPC Coach & Team Mentor — Sharif University of Technology |
+| 2025 | ⭐ Outstanding Research Student Award — IAU Lahijan |
+| 2025 | 🎯 Founder & Organizer — Tea Code Programming Contest |
+| 2023 | 🏅 ICPC Competitor — Sharif University of Technology |
+| — | 🥉 3rd Place — Azad Code National Online Programming Contest |
 
 ---
 
@@ -92,9 +113,9 @@ class SurenaKarimi:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/surena_karimi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surenakarimi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_surenakarimi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/surenaaa_k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/surena-karimi))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surena_k)
 
 </div>
 
