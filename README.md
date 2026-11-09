@@ -40,6 +40,9 @@ class SurenaKarimi:
             "🧠 Designing resilient backend architectures & high-throughput APIs",
             "🎓 Mentoring developers & competitive programming teams",
         ]
+
+```
+
 ---
 
 ## 🛠️ Tech Stack & Tooling
