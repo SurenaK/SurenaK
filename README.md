@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <a href="https://github.com/SurenaK">
@@ -40,3 +41,57 @@ class SurenaKarimi:
             "🧠 Designing resilient backend architectures & high-throughput APIs",
             "🎓 Mentoring developers & competitive programming teams",
         ]
+
+```
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+---
+
+## 🧩 Domains of Expertise
+
+| Domain | Highlights |
+| --- | --- |
+| ⚙️ **Production AI & MLOps** | Model containerization, inference latency optimization, automated CI/CD for ML, experiment tracking, vector databases & RAG architectures |
+| 💡 **Software Engineering** | System design, clean architecture, RESTful API design, concurrency handling, database modeling, technical debt reduction |
+| 📋 **Technical Project Management** | Cross-functional team leadership, agile sprint planning, technical roadmapping, production deployment strategies |
+| 🏆 **Algorithms & Problem Solving** | Advanced data structures, ICPC coaching, graph algorithms, mathematical modeling, complexity optimization |
+| 🎓 **Technical Mentorship** | Workshop instruction, algorithmic training, academic writing, engineering curriculum design |
+
+---
+
+## 🚀 What I Build & Architect
+
+```
+🧠 Production AI Pipelines       → Containerized ML models, RAG systems, inference endpoints
+⚙️ High-Performance Backends     → Fast APIs, Redis caching layers, worker queues
+🏗️ Scalable Systems              → End-to-end custom code, robust microservices, MVPs
+🎯 Competitive Programming       → Contest platforms, mentorship frameworks, problem setting
+
+```
+
+---
+
+## 🏆 Key Milestones
+
+| Year | Milestone |
+| --- | --- |
+| 2025 | 🏅 ICPC Coach & Team Mentor — Sharif University of Technology |
+| 2025 | ⭐ Outstanding Research Student Award — IAU Lahijan |
+| 2025 | 🎯 Founder & Organizer — Tea Code Programming Contest |
+| 2024 | 🥉 3rd Place — Azad Code National Online Programming Contest |
+| 2023 | 🏅 ICPC Regional Competitor — Sharif University of Technology |
+
+---
+
+## 🌐 Connect With Me
+
+---
+
+> *"Writing models is science; bringing them to production reliably is software engineering."*
+
+**Software Engineer · Technical Project Manager · Production AI & MLOps**
+
+---
